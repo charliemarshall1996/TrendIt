@@ -1,0 +1,5 @@
+
+# Unwanted directories.
+
+.vscode/
+.pytest_cache/
